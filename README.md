@@ -287,7 +287,7 @@ search_frame = ttk.Frame(self.clients_frame)
 ### 1. Клонируйте репозиторий
 ```
 git clone https://github.com/belkovpv-rspd/LA_level1.git
-cd web_shop-app
+cd PythonProject2
 ```
 ### 2. Установите зависимости:
 ```
